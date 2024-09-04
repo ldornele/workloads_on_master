@@ -10,3 +10,6 @@ Useful Commands:
 - oc describe node/<node>
 
 - for i in {1..1000}; do curl -k <http://namespace.wildcard>; done;
+
+
+
